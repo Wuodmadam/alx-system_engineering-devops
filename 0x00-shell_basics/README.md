@@ -8,3 +8,4 @@ Betty in my first directory
 this is moving the betty file
 delete
 Bye bye my first directory
+going back toprevious folder
