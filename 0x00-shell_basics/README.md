@@ -10,3 +10,4 @@ delete
 Bye bye my first directory
 going back toprevious folder
 list all hidden in an order
+printing file type
