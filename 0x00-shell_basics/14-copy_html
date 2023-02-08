@@ -1,0 +1,2 @@
+#!/bi/bash
+for * .html do mv ../ ./
