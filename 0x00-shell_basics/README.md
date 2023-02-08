@@ -5,3 +5,4 @@ list all files including hidden in long format
 files with IDS
 creating directory in the /tmp folder using script
 Betty in my first directory
+this is moving the betty file
