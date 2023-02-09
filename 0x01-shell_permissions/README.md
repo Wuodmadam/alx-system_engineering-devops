@@ -7,3 +7,4 @@ permits user to execute
 user permission to execute
 allow multiple permissions
 allow everybody to execute
+user only all permissions
