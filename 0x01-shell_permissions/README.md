@@ -15,3 +15,4 @@ my dir with 751 permission
 changing group owner
 change owner and grp
 change owner and group owner as instructed
+change owner to betty if owned by guillaume
