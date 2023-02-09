@@ -14,3 +14,4 @@ printing file type
 symbolic link
 copy html files
 swtches current user to betty
+list
