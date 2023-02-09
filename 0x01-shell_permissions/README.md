@@ -10,3 +10,4 @@ allow everybody to execute
 user only all permissions
 set mode
 set mode hello same as olleh
+executing permissions to all subdirectories for user,groups and all users
