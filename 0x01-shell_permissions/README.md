@@ -13,3 +13,4 @@ set mode hello same as olleh
 executing permissions to all subdirectories for user,groups and all users
 my dir with 751 permission
 changing group owner
+change owner and grp
