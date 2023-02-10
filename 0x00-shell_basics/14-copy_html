@@ -1,2 +1,2 @@
 #!/bin/bash
-for * .html do mv ../ ./
+cp -un * .html ../
