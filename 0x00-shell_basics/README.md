@@ -15,3 +15,4 @@ symbolic link
 copy html files
 swtches current user to betty
 list
+moving files with upper case
