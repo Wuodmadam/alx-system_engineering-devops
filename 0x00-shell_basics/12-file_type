@@ -1,2 +1,2 @@
 #!/bin/bash
-[ -e /tmp/iamafile ] && echo "fileis '/tmp/iamafile' is: $(file /tmp/iamafile | awk '{print $2}')" || echo "no file '/tmp/iamafile'"
+file /tmp/iamafile
