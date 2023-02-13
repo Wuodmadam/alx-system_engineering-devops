@@ -5,3 +5,4 @@ display with letter only
 translate
 remove c and C
 remoce cC
+reverse input
