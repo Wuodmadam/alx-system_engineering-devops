@@ -4,3 +4,4 @@ displaying file contents
 diplay last 10 lines
 10 last lines of a file
 creation of a file
+adding contents from ls command to a file
