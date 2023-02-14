@@ -10,3 +10,4 @@ print addition results
 division
 display to another
 binary to deimal
+decimal places
