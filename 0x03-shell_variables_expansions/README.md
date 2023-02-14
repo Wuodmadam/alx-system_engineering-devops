@@ -7,3 +7,4 @@ list all variables
 create a local variable
 new global variable
 print addition results
+division
