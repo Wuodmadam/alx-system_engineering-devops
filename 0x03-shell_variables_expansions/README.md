@@ -9,3 +9,4 @@ new global variable
 print addition results
 division
 display to another
+binary to deimal
