@@ -4,3 +4,4 @@ add directory to path
 count directories in path
 list environment vars
 list all variables
+create a local variable
