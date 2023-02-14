@@ -8,3 +8,4 @@ create a local variable
 new global variable
 print addition results
 division
+display to another
