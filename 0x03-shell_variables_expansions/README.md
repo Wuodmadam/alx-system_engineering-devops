@@ -13,3 +13,4 @@ binary to deimal
 decimal places
 decimal to hexadecimal
 encode and decode
+print from first line of input
