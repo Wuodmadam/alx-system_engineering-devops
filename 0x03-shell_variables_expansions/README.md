@@ -12,3 +12,4 @@ display to another
 binary to deimal
 decimal places
 decimal to hexadecimal
+encode and decode
