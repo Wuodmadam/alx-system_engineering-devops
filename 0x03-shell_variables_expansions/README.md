@@ -11,3 +11,4 @@ division
 display to another
 binary to deimal
 decimal places
+decimal to hexadecimal
