@@ -14,3 +14,4 @@ decimal places
 decimal to hexadecimal
 encode and decode
 print from first line of input
+add two numbers stored in variables
